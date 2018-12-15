@@ -1,0 +1,18 @@
+{
+    "username": "user_email@example.com",
+    "password": "password",
+    "proxylist": [],
+    "timeout": 10,
+    "search_results": {
+        "pages_to_scrape": 2,
+        "results_per_page": 40
+    },
+    "profile_extractor": {
+        "amount_profiles": 10
+    },
+    "cookie": {
+        "li_at": "AexampleexampleexampleO_gexampleexampleexampleexamplb_TexampleexampleM_VexampleexB_wexampleexampleexamm_7exampleexampleexa1-fexampleexampleP_Hex9-qe9-1l",
+        "Csrf-Token": "ajax:1234567890123456789",
+        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0 Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0."
+    }
+}
