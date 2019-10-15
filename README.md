@@ -11,7 +11,7 @@ You will need python 3+.
 First clone this repo, then navigate to the folder and install the requirements
 
 ```
-git clone https://github.com/hakim-khan/linkedin-scraper.git
+git clone https://github.com/hakimkhalafi/linkedin-scraper.git
 cd linkedin-scraper
 pip install -r requirements.txt
 ```
